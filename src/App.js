@@ -526,7 +526,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Each NFT presents a one-of-a-kind gemstone, rendered in Loomy's inimitable style that captures the true essence of artistic individuality.
+              Each NFT presents a one-of-a-kind gemstone, rendered in Fyrie's inimitable style that captures the true essence of artistic individuality.
             </s.TextDescription>
 
 
